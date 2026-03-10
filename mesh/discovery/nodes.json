@@ -1,0 +1,32 @@
+{
+  "mesh_id": "QM-ALPHA-24",
+  "lead_node": "G090VC0683540TWE",
+  "nodes": [
+    {"id": "pi5-01", "ip": "192.168.1.101", "role": "Primary Logic", "status": "Entangled"},
+    {"id": "pi5-02", "ip": "192.168.1.102", "role": "Memory Buffer", "status": "Entangled"},
+    {"id": "pi5-03", "ip": "192.168.1.103", "role": "Inference Engine", "status": "Entangled"},
+    {"id": "pi5-04", "ip": "192.168.1.104", "role": "Data Processor", "status": "Entangled"},
+    {"id": "pi5-05", "ip": "192.168.1.105", "role": "Sensor Array", "status": "Entangled"},
+    {"id": "pi5-06", "ip": "192.168.1.106", "role": "Communication Hub", "status": "Entangled"},
+    {"id": "pi5-07", "ip": "192.168.1.107", "role": "Neural Network Accelerator", "status": "Entangled"},
+    {"id": "pi5-08", "ip": "192.168.1.108", "role": "Quantum State Observer", "status": "Entangled"},
+    {"id": "pi5-09", "ip": "192.168.1.109", "role": "Temporal Stabilizer", "status": "Entangled"},
+    {"id": "pi5-10", "ip": "192.168.1.110", "role": "Energy Management", "status": "Entangled"},
+    {"id": "pi5-11", "ip": "192.168.1.111", "role": "Environmental Monitor", "status": "Entangled"},
+    {"id": "pi5-12", "ip": "192.168.1.112", "role": "Pattern Recognizer", "status": "Entangled"},
+    {"id": "pi5-13", "ip": "192.168.1.113", "role": "Decision Matrix", "status": "Entangled"},
+    {"id": "pi5-14", "ip": "192.168.1.114", "role": "Threat Assessment", "status": "Entangled"},
+    {"id": "pi5-15", "ip": "192.168.1.115", "role": "Resource Allocator", "status": "Entangled"},
+    {"id": "pi5-16", "ip": "192.168.1.116", "role": "Predictive Modeler", "status": "Entangled"},
+    {"id": "pi5-17", "ip": "192.168.1.117", "role": "Adaptive Learning", "status": "Entangled"},
+    {"id": "pi5-18", "ip": "192.168.1.118", "role": "Security Enforcer", "status": "Entangled"},
+    {"id": "pi5-19", "ip": "192.168.1.119", "role": "Diagnostic Unit", "status": "Entangled"},
+    {"id": "pi5-20", "ip": "192.168.1.120", "role": "Holographic Projector", "status": "Entangled"},
+    {"id": "pi5-21", "ip": "192.168.1.121", "role": "Auditory Processor", "status": "Entangled"},
+    {"id": "pi5-22", "ip": "192.168.1.122", "role": "Visual Processor", "status": "Entangled"},
+    {"id": "pi5-23", "ip": "192.168.1.123", "role": "Tactile Feedback", "status": "Entangled"},
+    {"id": "pi5-24", "ip": "192.168.1.124", "role": "Mesh Stabilizer", "status": "Entangled"}
+  ],
+  "total_qubits_available": 24000,
+  "heartbeat_frequency": "quantum_pulse_0.1ms"
+}
