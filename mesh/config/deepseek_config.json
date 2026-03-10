@@ -1,0 +1,5 @@
+{
+  "deepseek_api_key": "YOUR_GENERATED_DEEPSEEK_KEY_HERE",
+  "api_endpoint": "https://api.deepseek.com/quantum/v1",
+  "timeout_ms": 5000
+}
